@@ -1,0 +1,14 @@
+C:\Users\conra\Documents\Github\App\bin\Debug\net8.0\DotNet.Docker.exe
+C:\Users\conra\Documents\Github\App\bin\Debug\net8.0\DotNet.Docker.deps.json
+C:\Users\conra\Documents\Github\App\bin\Debug\net8.0\DotNet.Docker.runtimeconfig.json
+C:\Users\conra\Documents\Github\App\bin\Debug\net8.0\DotNet.Docker.dll
+C:\Users\conra\Documents\Github\App\bin\Debug\net8.0\DotNet.Docker.pdb
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfoInputs.cache
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.AssemblyInfo.cs
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.dll
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\refint\DotNet.Docker.dll
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.pdb
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\DotNet.Docker.genruntimeconfig.cache
+C:\Users\conra\Documents\Github\App\obj\Debug\net8.0\ref\DotNet.Docker.dll
